@@ -33,13 +33,15 @@ are a good starting point.
 1. First, sign this
 [Contributor License Agreement](https://goo.gl/forms/yuutGuN0RjsikVpM2)
 to allow us to use and publish your changes.
-2. Always make your changes on a separate branch. This will speed up
+2. Fork the repository.
+3. Enable running workflows in `Actions` tab in the forked repository.
+4. Always make your changes on a separate branch. This will speed up
 the merging process.
-3. Always make the target of your pull request the `develop` branch,
+5. Always make the target of your pull request the `develop` branch,
 not `master`.
-4. For any change you make, add test specs in the `test` folder.
-5. Please lint the code. See the section about using linter.
-6. Add a comprehensive description of all the changes.
+6. For any change you make, add test specs in the `test` folder.
+7. Please lint the code. See the section about using linter.
+8. Add a comprehensive description of all the changes.
 
 ## Code of conduct
 
